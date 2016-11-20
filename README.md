@@ -4,6 +4,7 @@ Kafka & Realtime
 -----
 * I ❤ Logs: Apache Kafka and Real-time Data Integration [Link](https://www.safaribooksonline.com/library/view/i-logs/9781491908310/)
 * Big Data: Principles and best practices of scalable realtime data systems [Link](https://www.safaribooksonline.com/library/view/big-data-principles/9781617290343/)
+
 Impala
 -----
 * Creating Big Data Solutions with Impala [Link](https://www.safaribooksonline.com/library/view/creating-big-data/9781771376136/)
